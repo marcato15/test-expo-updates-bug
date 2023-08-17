@@ -2,7 +2,7 @@ export default () => {
   const config = {
     expo: {
       "ios": {
-        "bundleIdentifier": "com.sussex.test"
+        "bundleIdentifier": "com.bug.test"
       },
     },
   };
